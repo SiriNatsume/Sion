@@ -26,7 +26,7 @@
 
 ## ToDo
 - [x] Nothing to do.
-- [x] 如果你有想要装载的插件，~~than you have to take it~~ 可以提出 issue。
+- [x] 如果你有想要装载的插件，~~then you have to take it~~ 可以提出 issue。
 
 
 ## 其他
