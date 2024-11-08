@@ -1,5 +1,5 @@
 <div align="center">
-     <img alt="potato_avatar.jpg" height="200" src="https://github.com/Hydrogens2/Sion/avatar.jpg" width="200"/>
+     <img alt="sion_avatar.jpg" height="200" src="https://github.com/Hydrogens2/Sion/blob/main/avatar.jpg" width="200"/>
 </div>
 
 <h1 align="center">Sion</h1>
