@@ -2,7 +2,7 @@
      <img alt="sion_avatar.jpg" height="200" src="https://github.com/Hydrogens2/Sion/blob/main/avatar.jpg" width="200"/>
 </div>
 
-<h1 align="center">Sion</h1>
+<h1 align="center">诗音</h1>
 
 ## 前言
 这里是诗音的插件列表，可以从对应链接查看指令，~~我懒得写 help 。~~ 
