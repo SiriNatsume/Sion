@@ -21,6 +21,10 @@
   - Nonebot 表情包制作插件。
   - 不明原因字体缺失，中文会变成“口口口”。
 
+- **[nonebot-plugin-today-waifu](https://github.com/glamorgan9826/nonebot-plugin-today-waifu)**
+  - 抽取每日群友老婆，分群配置。
+  - 本配置每日仅允许抽取一次，不允许更换，指令为 **/waifu** 。
+
 ## 致谢
 感谢 [nonebot 社区](https://nonebot.dev/)及所有插件开发者。
 
